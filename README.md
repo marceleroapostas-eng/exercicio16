@@ -1,8 +1,8 @@
-\# Exercício 16 - Calculadora
+# Exercício 16 - Calculadora
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,31 +10,27 @@ Este programa solicita dois números ao usuário e apresenta opções de operaç
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
 
 
-\- NetBeans
+- NetBeans
+
+- Maven
 
 
-
-\- Maven
-
-
-
-\## Entrada
-
+## Entrada
 
 
 A entrada contém dois números informados pelo usuário e uma opção correspondente à operação desejada.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -42,7 +38,7 @@ O programa exibe o resultado da operação escolhida. Caso seja selecionada uma 
 
 
 
-\## Autor
+## Autor
 
 
 
